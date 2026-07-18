@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### 🩷 Навыки
+### 🩷 Skills
 
 <img src="https://img.shields.io/badge/HTML5-FF3D8A?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-FF7FB0?style=for-the-badge&logo=css3&logoColor=white" />
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-### 🔗 Найти меня здесь
+### 🔗 Contact Me
 
 <a href="https://t.me/mvp1337god" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-FF3D8A?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -47,7 +47,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=r3aper&label=Просмотров+профиля&color=FF3D8A&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=r3aper&label=Profile+Views&color=FF3D8A&style=for-the-badge)
 
 
 
