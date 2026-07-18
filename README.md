@@ -29,13 +29,13 @@
 
 ### 🔗 Найти меня здесь
 
-<a href="https://t.me/" target="_blank">
+<a href="https://t.me/mvp1337god" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-FF3D8A?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://instagram.com/" target="_blank">
+<a href="https://instagram.com/mvp1337god" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-FF3D8A?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://twitter.com/" target="_blank">
+<a href="https://x.com/AWP0FF" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-FF3D8A?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
